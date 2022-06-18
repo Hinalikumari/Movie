@@ -1,0 +1,5 @@
+com\jpmc\theater\LocalDateProviderTests.class
+com\jpmc\theater\ReservationTests.class
+com\jpmc\theater\MovieTests.class
+com\jpmc\theater\TheaterTests.class
+com\jpmc\theater\ShowingTests.class
